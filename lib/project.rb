@@ -11,7 +11,4 @@ class Project
       @backers << backer
       @backed_projects << self
     end
-    
-    
-      
 end
